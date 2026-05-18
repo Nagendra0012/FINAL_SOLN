@@ -1,0 +1,14 @@
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\bin\Debug\net10.0\OrdEF.deps.json
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\bin\Debug\net10.0\OrdEF.runtimeconfig.json
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\bin\Debug\net10.0\OrdEF.dll
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\bin\Debug\net10.0\OrdEF.pdb
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\obj\Debug\net10.0\OrdEF.csproj.AssemblyReference.cache
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\obj\Debug\net10.0\OrdEF.GeneratedMSBuildEditorConfig.editorconfig
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\obj\Debug\net10.0\OrdEF.AssemblyInfoInputs.cache
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\obj\Debug\net10.0\OrdEF.AssemblyInfo.cs
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\obj\Debug\net10.0\OrdEF.csproj.CoreCompileInputs.cache
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\obj\Debug\net10.0\OrdEF.dll
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\obj\Debug\net10.0\refint\OrdEF.dll
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\obj\Debug\net10.0\OrdEF.pdb
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\obj\Debug\net10.0\OrdEF.genruntimeconfig.cache
+M:\SEM-3\Database Systems\Final_Exam\FINAL_SOLN\OrdEF\obj\Debug\net10.0\ref\OrdEF.dll
