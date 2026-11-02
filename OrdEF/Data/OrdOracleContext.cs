@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Ord.EF.Models;
@@ -45,8 +45,7 @@ public partial class OrdOracleContext : DbContext
     public virtual DbSet<Zip> Zips { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseOracle("User Id=***REMOVED***;Password=***REMOVED***;Data Source=54.198.204.133:1521/FREEPDB1");
+        => optionsBuilder.UseOracle(Environment.GetEnvironmentVariable("ORD_ORACLE_CONNECTION"));
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
